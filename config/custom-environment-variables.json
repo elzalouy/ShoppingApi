@@ -1,0 +1,7 @@
+{
+  "connectionString": "connectionString",
+  "jwt_PK": "jwt_PK",
+  "Mail_UserName": "Mail_UserName",
+  "Mail_Password": "Mail_Password",
+  "FrontEndUrl": "FrontEndUrl"
+}
